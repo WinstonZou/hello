@@ -1,4 +1,4 @@
 # hello
-Just to start my Java career
+Just to start my code career
 
-Hello,I want to be a geek.
+Hello,I hate to be a geek.
